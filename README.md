@@ -42,6 +42,7 @@ If these dependencies are not installed, the script will automatically attempt t
 2. Execute the script:
    ```bash
    ./DecryptMyChrome.vbs
-  or   
-   ```bash  
+
+3. Execute the Python Script Directly: (Optional)
+   ```bash
    python DecryptMyChrome.py
