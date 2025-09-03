@@ -33,16 +33,11 @@ If these dependencies are not installed, the script will automatically attempt t
 
 ---
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sbshivam14/DecryptMyChrome.git
-   cd DecryptMyChrome
-   
-2. Execute the script:
+## Usage 
+1. Execute the VBScript file:
    ```bash
    ./DecryptMyChrome.vbs
 
-3. Execute the Python Script Directly: (Optional)
+2. Execute the Python Script Directly: (Optional)
    ```bash
    python DecryptMyChrome.py
