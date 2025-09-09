@@ -4,7 +4,7 @@
 This project automates the **decryption of passwords saved in the Chrome Password Manager** on outdated versions of Chrome.  
 It uses a combination of **Python** and **VBScript** to perform the process without requiring any manual interaction.  
 
-The project is inspired by [decrypt-chrome-passwords]([https://github.com](https://github.com/ohyicong/decrypt-chrome-passwords)) but extends its functionality by fully automating the execution.
+The project is inspired by [decrypt-chrome-passwords](https://github.com/ohyicong/decrypt-chrome-passwords) but extends its functionality by fully automating the execution.
 
 ⚠️ **Disclaimer**: This tool is provided for **educational and research purposes only**. Do not use it on systems you do not own or have explicit permission to test. The author assumes no responsibility for any misuse.
 
